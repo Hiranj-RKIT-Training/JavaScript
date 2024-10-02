@@ -1,0 +1,76 @@
+/* all buttons  */
+.btn-primary {
+    background-color: #6C63FF !important;
+    border: #6C63FF solid 0px !important;
+    border-radius: 10px;
+    color: white;
+    height: 38px !important;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* todo Header */
+.header {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+/* toast  */
+.toast {
+    position: absolute;
+    bottom: 8vh;
+    right: 10px;
+}
+
+/* full page */
+body {
+    justify-content: center;
+    display: flex;
+}
+
+
+
+
+.darkMode {
+    background: #000;
+    color: white;
+}
+
+/* main body */
+.container {
+    width: 60% !important;
+
+}
+
+/* checkbox  */
+.chkBox {
+    width: 26px !important;
+    height: 26px !important;
+    margin-right: 10px !important;
+    margin-left: 5px !important;
+
+}
+
+.chkBox:checked {
+    background-color: #6C63FF !important;
+}
+
+/* for marking completed as strikethrough */
+.taskCompleted {
+    text-decoration: line-through;
+    color: rgba(37, 37, 37, 0.5) !important;
+}
+
+.divider {
+    border: #6C63FF solid 1px;
+    padding: 0px;
+    margin: 15px 0px 15px 0px;
+}
+
+.deleteIcon {
+    color: red;
+    float: right;
+}
