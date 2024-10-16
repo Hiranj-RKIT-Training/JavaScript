@@ -1,4 +1,5 @@
-4. JavaScript.
+
+Check out the live version of the project here: [Live Demo](https://hiranj-rkit-training.github.io/JavaScript/)
 # **JavaScript Introduction**
 JavaScript is a versatile, high-level programming language primarily used for creating dynamic, interactive effects within web browsers. It enables you to implement complex features on web pages, such as real-time updates, multimedia, animations, and more.
 # **Use of JavaScript**
